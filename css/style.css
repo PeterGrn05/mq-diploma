@@ -751,7 +751,8 @@ ol {
 
 .footer-wrapper {
     margin: auto;
-    padding: 0 165px;
+    padding: 0 10px;
+    max-width: 1200px;
     width: 100%
     
 }
@@ -1010,7 +1011,7 @@ ol {
 
     .header-container,
     .page
-    .footer-wrapper {
+     {
         padding-left: 4vw;
         padding-right: 4vw;
     }
