@@ -1009,13 +1009,14 @@ ol {
 @media (max-width: 1199px) {
 
     .header-container,
-    .page {
+    .page
+    .footer-wrapper {
         padding-left: 4vw;
         padding-right: 4vw;
     }
     .footer-wrapper {
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 30px;
+        padding-right: 30px;
     }
 
     .menu-list {
